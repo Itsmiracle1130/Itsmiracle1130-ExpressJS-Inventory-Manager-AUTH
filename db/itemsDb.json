@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "ibanez-le",
+    "price": "$27,200",
+    "size": "big"
+  },
+  {
+    "id": 2,
+    "name": "Les Paul",
+    "price": "$2200",
+    "size": "small"
+  },
+  {
+    "id": 3,
+    "name": "gipson",
+    "price": "$6000",
+    "size": "medium"
+  },
+  {
+    "id": 4,
+    "name": "ultimate",
+    "price": "$3000",
+    "size": "medium"
+  },
+  {
+    "id": 5,
+    "name": "thunder",
+    "price": "$800",
+    "size": "big"
+  }
+]

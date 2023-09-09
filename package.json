@@ -1,0 +1,22 @@
+{
+  "name": "expressjs-inventory-manager-auth",
+  "version": "1.0.0",
+  "description": "An Alt School Africa Backend Engineering Task on Authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Itsmiracle1130/ExpressJS-Inventory-Manager-AUTH.git"
+  },
+  "author": "Miracle Akintunde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Itsmiracle1130/ExpressJS-Inventory-Manager-AUTH/issues"
+  },
+  "homepage": "https://github.com/Itsmiracle1130/ExpressJS-Inventory-Manager-AUTH#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
