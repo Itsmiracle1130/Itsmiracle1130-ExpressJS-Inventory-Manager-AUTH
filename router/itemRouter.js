@@ -9,7 +9,7 @@ const {
     getItem,
     updateItem,
     deleteItem
-} = require('../controller/itemController.js')
+} = require('../item/src/controller/itemController.js')
 
 const itemRouter = express.Router()
 
